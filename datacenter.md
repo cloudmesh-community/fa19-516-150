@@ -33,9 +33,18 @@ Intrestingly I could find out a data center which runs or may be ran on Bio mass
 * http://biomassmagazine.com/articles/5733/proposed-colorado-data-center-to-be-powered-by-biomass
 * https://www.eia.gov/energyexplained/biomass/
 
-## E.Datacenter.5
+## E.Datacenter.5:India
 
-I would like to discuss about India's effort towards renewable sources and the changes it has bought along with it.
+I would like to discuss about India's effort towards renewable sources and the changes it has bought along with it. Renewable soucres refers to the process of utilising the natural sources such as sun, wind, water etc to generate energy from. Conversion of energy from one form to another form forms a significant part. For example heat energy can be obtained form electric energy and vice versa. The replacement of non renewable energy sources with renewable energy sources has both environmental as well as economic benefits. When it comes to a nation as a whole, this benefit is highly commendable. India's renewable sector is the 4th attractive renewable energy market in the world. India's contibution towards the renewable sources is heading towards a siginificant increase as the time passes by. As per the stastics till April 2019, total renewable power installed in the country stands at 78.53 GW. There are various notable investements and developments in the Indian renewable energy sector. It has invested funds in many projects as well received investments from other countries and investors. To name a few we have, 1MW of solar capacity every hour(2018), world's largest solar park named 'shakthi shithala' was launched with an investment of 16,500 crores.The consequence of using the renewable energy sources had a tremeduous impact on people. Besides, contributing to a decerease in global warming, there was a tremendous improvement in the public health and also created many employment oppurtunities. There are various initiatives taken by the indian government such as GO Green, hydropower policy,custom benefits to houses which has solar rooftop sector, etc.
+
+### References
+
+* https://www.ibef.org/industry/renewable-energy.aspx
+
+## E.Datacenter.8: The Endurance Outage(2013)
+
+On 2013 there was a failure in 2 network switches in a data center near Provo, Utah. Though on the outer apperance it seems that its effect would be very minimal, there was very huge consequence. The basis for all these was the concept of roll-up and convergence. This means convergence of infrastructure into few data centers. On elaborating, suppose that there are 3 different brands under a company X. All these brands are hosted under the same hosting platform, which means that failure at one point can cause the breakage of all the 3 brands at once, affecting the services of millions of customers. This is exactly the same which happened in Provo. The company called endurance manages the hosting of many of the top companies. When the network switch failed it affected many of the brands including the 4 national brands namely BLUE HOST, HOST GATOR, HOST MONSTER and JUST HOST. The role of endurance here can given as analogy to the presently trending social media comapny Facebook. Facebook manages many of the other pages and even promotes the advertisments of many of the companies and organizations. This is also one of the sources for its high economy. The problem with these companies is that they dont give an insight to the customers of what's actually going on i.e they aren't very transparent. When the incident happened, there was an attempt by endurance to resolve the customer queries through Twitter. Every single attempt to resolve the situation was reported.
+Endurance Outage had a significant impact and showed to its counterparts and to the world the need to address single points of failure. 
 
 
 
