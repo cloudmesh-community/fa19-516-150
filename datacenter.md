@@ -44,7 +44,12 @@ I would like to discuss about India's effort towards renewable sources and the c
 ## E.Datacenter.8: The Endurance Outage(2013)
 
 On 2013 there was a failure in 2 network switches in a data center near Provo, Utah. Though on the outer apperance it seems that its effect would be very minimal, there was very huge consequence. The basis for all these was the concept of roll-up and convergence. This means convergence of infrastructure into few data centers. On elaborating, suppose that there are 3 different brands under a company X. All these brands are hosted under the same hosting platform, which means that failure at one point can cause the breakage of all the 3 brands at once, affecting the services of millions of customers. This is exactly the same which happened in Provo. The company called endurance manages the hosting of many of the top companies. When the network switch failed it affected many of the brands including the 4 national brands namely BLUE HOST, HOST GATOR, HOST MONSTER and JUST HOST. The role of endurance here can given as analogy to the presently trending social media comapny Facebook. Facebook manages many of the other pages and even promotes the advertisments of many of the companies and organizations. This is also one of the sources for its high economy. The problem with these companies is that they dont give an insight to the customers of what's actually going on i.e they aren't very transparent. When the incident happened, there was an attempt by endurance to resolve the customer queries through Twitter. Every single attempt to resolve the situation was reported.
-Endurance Outage had a significant impact and showed to its counterparts and to the world the need to address single points of failure. 
+Endurance Outage had a significant impact and showed to its counterparts and to the world the need to address single points of failure.
+All these past and previous experiences is what the present experts and engineers in the data center consider to avoid a data center outage.
+
+### References
+
+* https://www.datacenterknowledge.com/archives/2013/08/05/how-did-the-failure-of-network-switches-at-a-little-known-data-center-in-provo-utah-knock-four-major-services-and-millions-of-web-pages-offline
 
 
 
