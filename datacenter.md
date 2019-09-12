@@ -21,10 +21,10 @@ The main advantage of FrankFurt 3 data center is that it uses a method of hybrid
 
 ## E.Datacenter.3
 
- I live in Bloomington(woodbridge apartments) in a town house 
- I travel around 40 miles a week (through campus bus shuttle) 
- I do not have my own vehicle
- I usually take one long flight, once a year
+ Currently reside in Bloomington(woodbridge apartments) in a town house 
+ Travelling around 40 miles a week (through campus bus shuttle) 
+ Do not have my own vehicle
+ Will usually take one long flight, once a year
  My carbon foot-print turns out to be around 9165 lbs.
 
 A carbon foot-print has been created and has been addded to the file [file](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=314181983)
