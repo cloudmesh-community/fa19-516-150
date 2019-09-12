@@ -2,7 +2,7 @@
 
 :o2: please use proper urls
 
-:o2: remove the word "I" from your answers
+:o2: remove the word "I" from your answers: Resolved
 
 ## E.Datacenter.2a - FrankFurt 3
 
