@@ -48,21 +48,21 @@ The problem with these companies is that they dont give an insight to the custom
 
 ## References
 
-[1] https://www.e-shelter.de/en/location/frankfurt-3-data-center
+[1] <https://www.e-shelter.de/en/location/frankfurt-3-data-center>
 
-[2] https://www.schneider-electric.com/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/
+[2] <https://www.schneider-electric.com/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/>
 
-[3] http://carbonfootprint.c2es.org/.
+[3] <http://carbonfootprint.c2es.org/>
 
-[4] https://www.eia.gov/energyexplained/biomass/.
+[4] <https://www.eia.gov/energyexplained/biomass/>
 
-[5] http://www.vineyarddatacenterpark.com/
+[5] <http://www.vineyarddatacenterpark.com/>
 
-[6] http://biomassmagazine.com/articles/5733/proposed-colorado-data-center-to-be-powered-by-biomass
+[6] <http://biomassmagazine.com/articles/5733/proposed-colorado-data-center-to-be-powered-by-biomass>
 
-[7] https://www.ibef.org/industry/renewable-energy.aspx
+[7] <https://www.ibef.org/industry/renewable-energy.aspx>
 
-[8] https://www.datacenterknowledge.com/archives/2013/08/05/how-did-the-failure-of-network-switches-at-a-little-known-data-center-in-provo-utah-knock-four-major-services-and-millions-of-web-pages-offline
+[8] <https://www.datacenterknowledge.com/archives/2013/08/05/how-did-the-failure-of-network-switches-at-a-little-known-data-center-in-provo-utah-knock-four-major-services-and-millions-of-web-pages-offline>
 
 
 
