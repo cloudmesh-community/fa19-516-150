@@ -56,7 +56,7 @@ The problem with these companies is that they dont give an insight to the custom
 
 [2] https://www.schneider-electric.com/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/
 
-[3] http://carbonfootprint.c2es.org/ calculator.
+[3] http://carbonfootprint.c2es.org/.
 
 [4] https://www.eia.gov/energyexplained/biomass/.
 
